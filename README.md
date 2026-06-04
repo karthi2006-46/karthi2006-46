@@ -79,24 +79,33 @@ public class Karthikeyan {
 
 ---
 
-## 📊 GitHub Stats
+
+
+## 📊 GitHub Profile Summary
 
 <div align="center">
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=karthi2006-46&theme=tokyonight" />
+</div>
+<!-- ## 📊 GitHub Stats -->
+<!-- <div align="center">
   <a href="https://github.com/karthi2006-46">
     <img height="170" src="https://github-readme-stats.vercel.app/api?username=karthi2006-46&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
   </a>
   <a href="https://github.com/karthi2006-46">
     <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthi2006-46&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
   </a>
-</div>
+</div> -->
 
 ---
 
 ## 🔥 Streak
-
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=karthi2006-46&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" />
+  <img src="https://streak-stats.demolab.com?user=karthi2006-46&theme=tokyonight&hide_border=true" />
 </div>
+
+<!-- <div align="center">
+  <img src="https://streak-stats.demolab.com?user=karthi2006-46&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" />
+</div> -->
 
 ---
 
@@ -106,13 +115,13 @@ public class Karthikeyan {
   <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=karthi2006-46&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true"/>
 </div>
 
----
 
-## 🏆 Trophies
 
-<div align="center">
+<!--## 🏆 Trophies-->
+
+<!-- <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=karthi2006-46&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4"/>
-</div>
+</div> -->
 
 ---
 
